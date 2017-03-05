@@ -1,0 +1,25 @@
+body {
+	padding: 20px;
+}
+
+button {
+	margin: 0 10px;
+}
+
+ul {
+	margin: 20px 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+	margin: 20px 0 0;
+}
+
+li.complete span {
+	text-decoration: line-through;
+}
+
+li span {
+	cursor: pointer;
+}
